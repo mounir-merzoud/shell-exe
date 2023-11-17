@@ -1,0 +1,2 @@
+echo im a cript
+
